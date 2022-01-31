@@ -11,4 +11,4 @@ redirect_from:
 
 <embed src="{{ site.baseurl }}/files/Reiner_Cruz_Manrique_CV.pdf" type="application/pdf" width="600px" height="500px" />
 
-Si no puede visualizar el CV, [descárguelo aquí](http://reinercruz.github.io/files/Reiner_Cruz_Manrique_CV.pdf)
+Si no puede visualizar el CV, [descárguelo aquí]<a href="https://github.com/ReinerCruz/reinercruz.github.io/blob/master/files/paper1.pdf" target="_blank" />

@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="files/Reiner_Cruz_Manrique_CV.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
+<a href="files/Reiner_Cruz_Manrique_CV.pdf" class="image fit"></a>
 
 Code: https://raw.githubusercontent.com/belovanna/belovanna.github.io/b64e6c285e0e057f9bc9a1723a4eb767446a1947/_pages/curriculum.md
 Effect: https://belovanna.github.io/Curriculum/

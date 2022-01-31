@@ -11,5 +11,5 @@ redirect_from:
 
 <embed src="{{ site.baseurl }}/files/Reiner_Cruz_Manrique_CV.pdf" type="application/pdf" width="600px" height="500px" />
 
-Si no puede visualizar el CV enaida [descárguelo aquí]
-<a href="https://reinercruz.github.io/reinercruz.github.io/Reiner_Cruz_Manrique_CV.pdf" target="_blank" /> 
+Si no puede visualizar el CV chivirika [descárguelo aquí]
+<a href="files/Reiner_Cruz_Manrique_CV.pdf" download>Download My Resume</a> 

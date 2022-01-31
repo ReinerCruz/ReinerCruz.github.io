@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Página Personal"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Reiner Cruz Manrique"
+description              : &description "Egresado destacado de la Pontificia Universidad Católica del Perú con conocimientos en Microeconomía, Econometría y manejo de base de datos. Mis intereses en investigación son desarrollo social, educación y políticas públicas en Perú.  Indicadores altos de liderazgo, investigación, capacidad analítica y trabajo en equipo.  "
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "ReinerCruz/reinercruz.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160

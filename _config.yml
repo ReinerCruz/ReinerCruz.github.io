@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Reiner Cruz Manrique"
   avatar           : "foto_png.png"
-  bio              : "Bachiller destacado (quinto superior) de la Pontificia Universidad Católica del Perú"
+  bio              : <p align="center"> "Bachiller destacado (quinto superior) de la Pontificia Universidad Católica del Perú"</p>
   location         : "Tacna, Perú"
   employer         :
   email            : "a20196816@pucp.edu.pe"
@@ -101,7 +101,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

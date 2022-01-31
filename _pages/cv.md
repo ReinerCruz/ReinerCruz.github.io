@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="http://reinercruz.github.io/files/Reiner_Cruz_Manrique_CV.pdf" type="application/pdf" width="600px" height="500px" />
+<embed src="https://reinercruz.github.io/files/Reiner_Cruz_Manrique_CV.pdf" type="application/pdf" width="600px" height="500px" />
 
 
 Si no puede visualizar el CV, [descárguelo aquí](http://reinercruz.github.io/files/Reiner_Cruz_Manrique_CV.pdf)

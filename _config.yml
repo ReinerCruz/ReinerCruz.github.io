@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Página Personal"
 title_separator          : "-"
 name                     : &name "Reiner Cruz Manrique"
-description              : &description "Egresado destacado de la Pontificia Universidad Católica del Perú con conocimientos en Microeconomía, Econometría y manejo de base de datos. Mis intereses en investigación son desarrollo social, educación y políticas públicas en Perú.  Indicadores altos de liderazgo, investigación, capacidad analítica y trabajo en equipo.  "
+description              : &description " Hola"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ReinerCruz/reinercruz.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Your Sidebar Name"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Egresado destacado de la Pontificia Universidad Católica del Perú con conocimientos en Microeconomía, Econometría y manejo de base de datos. Mis intereses en investigación son desarrollo social, educación y políticas públicas en Perú.  Indicadores altos de liderazgo, investigación, capacidad analítica y trabajo en equipo.  "
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

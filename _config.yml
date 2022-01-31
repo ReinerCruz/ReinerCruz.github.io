@@ -14,7 +14,7 @@ description              : &description " Profile"
 url                      : https://reinercruz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "reinercruz.github.io"
-teaser                   :  "foto_png.png"
+teaser                   :  
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Reiner Cruz Manrique "
+  name             : "Reiner Cruz Manrique"
   avatar           : "foto_png.png"
-  bio              : "Egresado destacado de la Pontificia Universidad Católica del Perú con conocimientos en Microeconomía, Econometría y manejo de base de datos. Mis intereses en investigación son desarrollo social, educación y políticas públicas en Perú.  Indicadores altos de liderazgo, investigación, capacidad analítica y trabajo en equipo."</body>
+  bio              : "Egresado destacado de la Pontificia Universidad Católica del Perú con conocimientos en Microeconomía, Econometría y manejo de base de datos. Mis intereses en investigación son desarrollo social, educación y políticas públicas en Perú.  Indicadores altos de liderazgo, investigación, capacidad analítica y trabajo en equipo."
   location         : "Tacna, Perú"
   employer         :
   email            : "a20196816@pucp.edu.pe"

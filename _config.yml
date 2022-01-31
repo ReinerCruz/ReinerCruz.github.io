@@ -83,9 +83,9 @@ author:
   name             : "Reiner Cruz Manrique "
   avatar           : "foto_png.png"
   bio              : "Egresado destacado de la Pontificia Universidad Católica del Perú con conocimientos en Microeconomía, Econometría y manejo de base de datos. Mis intereses en investigación son desarrollo social, educación y políticas públicas en Perú.  Indicadores altos de liderazgo, investigación, capacidad analítica y trabajo en equipo."</body>
-  location         : Tacna, Perú
+  location         : "Tacna, Perú"
   employer         :
-  email            : a20196816@pucp.edu.pe
+  email            : "a20196816@pucp.edu.pe"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -94,7 +94,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : ReinerCruz
+  github           : "ReinerCruz"
   google_plus      :
   keybase          :
   instagram        :

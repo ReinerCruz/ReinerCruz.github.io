@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Sobre mí"
+title: "Sobre mí xd"
 excerpt: "About me"
 author_profile: true
 redirect_from: 

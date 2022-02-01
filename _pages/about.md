@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Sobre mí"
+title: "Sobre mí chivi"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 <p align="justify">
-Soy Reiner Cruz, bachiller de Economía de la Pontificia Universidad Católica del Perú. Actualmente curso la Diplomatura de Especialización en Ciencia de Datos para las Ciencias Sociales y la Gestión Pública y el XXVI Programa de Extensión Universitaria del OSIPTEL.  
+Soy Reiner Cruz, bachiller de Economía de la Pontificia Universidad Católica del Perú. Actualmente curso la Diplomatura de Especialización en Ciencia de Datos para las Ciencias Sociales y la Gestión Pública y el XXVI Programa de Extensión Universitaria del OSIPTEL.
+</p>
 <p align="justify">
 Tengo amplios conocimientos en Microeconomía, Econometría y Macroeconomía. Me considero una persona con capacidad de aprendizaje rápido y con altos indicadores de liderazgo, capacidad analítica y trabajo en equipo. Mis intereses en investigación son: desarrollo social, educación y políticas públicas en el Perú.
 </p>

@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Sobre mí xd"
+title: "Sobre mí reiner"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -17,9 +17,9 @@ Experiencia Laboral e investigación
 ======
 <p align="justify">
 En 2017 laboré en el Área de Planeamiento y Presupuesto de la Municipalidad Distrital de Sama Inclán, Tacna. Dentro de mis responsabilidades estaban la elaboración de informes y supervisión de presupuestos municipales a través del Sistema Integrado de Administración Financiera (SIAF).  
-
+</p>
 En 2021 fui practicante pre profesional en la Unidad de Recaudación Tributaria de la Municipalidad Distrital de Gregorio Albarracín Lanchipa, Tacna. Las funciones que desempeñé fueron brindar orientación al contribuyente, emisión de Estados de Cuenta y Registro de Propiedades a través del Sistema Integrado de Gestión Tributaria (SIGTM). Ese mismo año, fui practicante profesional de la Oficina Regional de Tacna del OSIPTEL, en donde brindaba información, atendía reclamos y levantaba información técnica de los casos atendidos a través del ATUS.   
-
+</p>
 Inicié en la investigación científica desde temprana edad. La primera investigación relevante fue la realizada para el Programa del Bachillerato Internacional con el tema: "Consecuencias políticas y económicas del autogolpe de Estado de 1992 de Alberto Fujimori". Desde 2021 hasta la actualidad realizo la investigación para mi tesis de grado con el tema: "Calidad universitaria y subempleo profesional: un análisis de los egresados de universidades peruanas en el período 2015-2019".
 </p>
 

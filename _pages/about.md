@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Sobre mí chivi"
+title: "Sobre mí"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -14,10 +14,8 @@ Soy Reiner Cruz, bachiller de Economía de la Pontificia Universidad Católica d
 Tengo amplios conocimientos en Microeconomía, Econometría y Macroeconomía. Me considero una persona con capacidad de aprendizaje rápido y con altos indicadores de liderazgo, capacidad analítica y trabajo en equipo. Mis intereses en investigación son: desarrollo social, educación y políticas públicas en el Perú.
 </p>
 
-<font color="green">
-Experiencia Laboral e investigación
+Experiencia Laboral e Investigación
 ======
-</font>
 <p align="justify">
 En 2017 laboré en el Área de Planeamiento y Presupuesto de la Municipalidad Distrital de Sama Inclán, Tacna. Dentro de mis responsabilidades estaban la elaboración de informes y supervisión de presupuestos municipales a través del Sistema Integrado de Administración Financiera (SIAF).  
 </p>

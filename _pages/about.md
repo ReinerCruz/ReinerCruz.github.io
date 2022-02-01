@@ -26,10 +26,8 @@ En 2021 fui practicante pre profesional en la Unidad de Recaudación Tributaria 
 Inicié en la investigación científica desde temprana edad. La primera investigación relevante fue la realizada para el Programa del Bachillerato Internacional con el tema: "Consecuencias políticas y económicas del autogolpe de Estado de 1992 de Alberto Fujimori". Desde 2021 hasta la actualidad realizo la investigación para mi tesis de grado con el tema: "Calidad universitaria y subempleo profesional: un análisis de los egresados de universidades peruanas en el período 2015-2019".
 </p>
 
-
 Historial académico
 ======
-
 <p align="justify">
 Considero que tengo una base educativa sólida e integral. Terminé la secundaria en el Colegio Mayor Secundario Presidente del Perú y fui el séptimo puesto mundial en el Programa del Bachillerato Internacional - Convocatoria 2013. Al año siguiente, gané una beca integral para la carrera de Economía en la Universidad del Pacífico. Lastimosamente desistí de la beca por problemas de salud. 
 </p>
@@ -39,7 +37,6 @@ En 2016 inicio mis estudios de Economía en la Universidad Nacional de San Agust
 <p align="justify">
 Hasta el momento me sigo capacitanto en temas de programación, machine learning, gestión pública y microeconomía avanzada. 
 </p>
-
 
 Capacidades
 ======
